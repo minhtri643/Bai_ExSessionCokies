@@ -1,0 +1,5 @@
+com\mycompany\exsessioncokies\resources\JakartaEE10Resource.class
+com\mycompany\exsessioncokies\JakartaRestConfiguration.class
+Cart\Addcart\AddToCartServlet.class
+Cart\Addcart\UpdateCartServlet.class
+Cart\product\Product.class
